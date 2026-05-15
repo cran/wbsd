@@ -1,6 +1,6 @@
 #               
 #    Copyright (C) 2020  David Preinerstorfer
-#    david.preinerstorfer@ulb.ac.be
+#    david.preinerstorfer@wu.ac.at
 #
 #    This file is a part of wbsd.
 #
@@ -19,7 +19,7 @@
 
 packageStartupMessage("
 ###############################################################################
-#    Package wbsd - Version 1.0.0 - License: GPL-2
+#    Package wbsd - Version 1.0.1 - License: GPL-2
 ###############################################################################
 #    wbsd is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by

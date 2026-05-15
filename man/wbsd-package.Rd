@@ -20,7 +20,8 @@ bootstrap p-values. Various test statistics (null-restricted/unrestricted covari
 The functions also cover various bootstrap schemes. We refer the user to \enc{Pötscher}{Poetscher} and Preinerstorfer (2020) for:
 details concerning the framework, test statistics, bootstrap schemes,
 the definition of theta (depending on the test statistic and scheme used), the
-underlying theoretical results, and for further references.
+underlying theoretical results, and for further references. The paper \enc{Pötscher}{Poetscher} and 
+Preinerstorfer (2020) was published in Econometric Theory , Volume 39 , Issue 4 , August 2023 , pp. 789 - 847.
 }
 
 \references{

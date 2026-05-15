@@ -1,6 +1,6 @@
 #
 #    Copyright (C) 2020 David Preinerstorfer
-#    david.preinerstorfer@ulb.ac.be
+#    david.preinerstorfer@wu.ac.at
 #
 #    This file is a part of wbsd.
 #
